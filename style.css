@@ -1,0 +1,72 @@
+.Menu{
+    margin: 10px;
+    background-color: #00ffff;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid
+}
+.origami{
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.info{
+    background-color:#6DE0C7;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    border: solid
+}
+.cham{
+    margin: 10px;
+    margin-left: 200px;
+    background-color: #0084FF;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid
+}
+.pigeon{
+    margin-left: 260px;
+    background-color: #00FF73;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid
+}
+.camel{
+    margin: 10px;
+    background-color: #D9FF00;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid
+}
+.teddy{
+    background-color: #D400FF;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid
+}
+.panda{
+    margin: 10px;
+    margin-left: 100px;
+    background-color: #C7F0E7;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid
+}
+.cicada{
+    margin-left: 150px;
+    background-color: #85F00C;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid
+}
+
+
+
